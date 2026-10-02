@@ -17,3 +17,4 @@
 - **Enfoque Bottom-Up:** Explicación de la resolución de los subproblemas desde los casos más pequeños hasta obtener la solución del problema original.
 
 - **Problemas clásicos:** Presentación y análisis de problemas representativos que pueden resolverse mediante Programación dinámica.
+- Link para ver el código C de la resolución de los problemas propuestos en el informe: https://drive.google.com/drive/folders/1WcLyYO8nds2Sg0RycXVyf3Cz6cl4jmpW?usp=sharing
